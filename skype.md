@@ -1,0 +1,1 @@
+[link](skype:?chat&blob=13gggbXFDIysbQRGr81Y7kymEPQ6VyTsWJk2biFn32fRmUwtub7JXowaU1oi1DJG)

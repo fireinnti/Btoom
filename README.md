@@ -9,7 +9,7 @@ Programming needs to be thought out. Will write an official design document when
 
 Skype Design Group
 ------------------
-* [Skype Group](https://forums.geargadgetstudios.com/viewtopic.php?pid=3684#p3684) use this in skype to add yourself
+* [Skype Group](https://forums.geargadgetstudios.com/viewtopic.php?pid=3684#p3684)
 This is a url to add yourself to skype group to discuss needed art changes, programming updates and game design. Anyone may join if they have a suggestion that needs to be heard.
 
 Installation

@@ -1,4 +1,4 @@
-# Btoom Test for video
+# Btoom
 Btoom Fan Game in Unreal Engine 4, this was made with some starter assets in the beginning. Don't expect much yet.
 
 ToDo

@@ -10,7 +10,7 @@ Programming needs to be thought out. Will write an official design document when
 Skype Design Group
 ------------------
 * [Skype Group](http://s11.no/s/skype:?chat&blob=13gggbXFDIysbQRGr81Y7kymEPQ6VyTsWJk2biFn32fRmUwtub7JXowaU1oi1DJG)
-This is a url to add yourself to skype group(skype url doesn't work here) to discuss needed art changes, programming updates and game design. Anyone may join if they have a suggestion that needs to be heard.
+This is a url to add yourself to skype group to discuss needed art changes, programming updates and game design. Anyone may join if they have a suggestion that needs to be heard.
 
 Installation
 ------------
